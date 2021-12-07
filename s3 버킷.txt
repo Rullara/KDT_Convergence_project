@@ -1,0 +1,6 @@
+jupyter
+
+
+
+
+python s3upload.py
